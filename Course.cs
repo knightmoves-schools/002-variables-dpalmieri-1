@@ -7,7 +7,7 @@ public class Course
     public const int PerfectScore = 100;
     public int CourseLength(){
         // Add your code here
-        int courseLength = 20;
-        return courseLength;
+        CourseLength = 20;
+        return CourseLength;
     }
 }
